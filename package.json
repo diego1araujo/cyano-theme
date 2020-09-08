@@ -1,0 +1,47 @@
+{
+    "name": "cyano-theme",
+    "displayName": "Cyano",
+    "description": "Cyano Theme for vscode",
+    "version": "0.0.1",
+    "publisher": "diego1araujo",
+    "license": "MIT",
+    "homepage": "https://github.com/diego1araujo/cyano-theme/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/diego1araujo/cyano-theme"
+    },
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "galleryBanner": {
+        "color": "#1d2433",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Cyano",
+        "Cyano Theme",
+        "Cyano Dark Theme",
+        "Cyano Dark Blue Theme",
+        "Dark Theme",
+        "Dark Blue Theme",
+        "Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cyano Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyano-dark-color-theme.json"
+            },
+            {
+                "label": "Cyano Dark Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyano-dark-blue-color-theme.json"
+            }
+        ]
+    }
+}
