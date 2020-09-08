@@ -1,16 +1,16 @@
 <p align="center">
-    <img alt="Cyano Logo" src="https://raw.githubusercontent.com/diego1araujo/cyano-theme/images/icon.png" width="180" />
+    <img alt="Cyano Logo" src="https://github.com/diego1araujo/cyano-theme/raw/master/images/icon.png" width="180" />
 </p>
 
 # Cyano Theme for VS Code
 
 ### Cyano Dark
 
-![dark](https://raw.githubusercontent.com/diego1araujo/cyano-theme/images/cyano-dark.png)
+![dark](https://github.com/diego1araujo/cyano-theme/raw/master/images/cyano-dark.png)
 
 ### Cyano Dark Blue
 
-![dark-blue](https://raw.githubusercontent.com/diego1araujo/cyano-theme/images/cyano-dark-blue.png)
+![dark-blue](https://github.com/diego1araujo/cyano-theme/raw/master/images/cyano-dark-blue.png)
 
 ## Installation
 
